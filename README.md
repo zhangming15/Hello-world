@@ -1,2 +1,4 @@
 # Hello-world
-Just a test of repository
+Hi, all!
+
+I will show you what I will do.
